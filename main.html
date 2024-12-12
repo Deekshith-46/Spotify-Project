@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EchoBeats : Music for everyone</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./utility.css">
+    <link rel="stylesheet" href="./musicSection.css">
+</head>
+
+<body>
+    <div class="main-header  bg-black">
+        <div class="left">
+            <div class="close">
+                <i class="fa-solid fa-xmark"></i>
+            </div>
+            <div class="home bg-grey rounded  m-2 mt-3">
+                <div class="center-container flex pb-3">
+                    <!-- <img src="./logo.jpg" alt="Sample Image" class="logo invert"> -->
+                    <div class="logo-container">
+                        <img src="./echo-beats.webp" alt="EchoBeats Logo" class="logo-image">
+                    </div>
+                    <div class="text"> &ensp; Echo Beats</div>
+                </div>
+                <ul>
+                    <li><a href="#"><i class="fa-solid fa-house"></i> &emsp;Home</a></li>
+                    <li><a href="./index.html" class="signupwidth"><button class="signupbtn">Sign up</button></a></li>
+                    <!-- <li><button class="loginbtn">Log in</button></li> -->
+                </ul>
+            </div>
+            <div class="library bg-grey rounded m-2 p-2">
+                <div class="heading">
+                    <img class="invert" src="./library.svg" alt="">
+                    <h2>
+                        Your Library
+                    </h2>
+                </div>
+
+                <div class="songList container-fluid text-center">
+                    <div class="row mt-3 row-grid">
+                        <div class="col-sm-6 col-md-6 mb-4">
+                            <a href="#playlist"><img
+                                    src="https://cdn.getmidnight.com/b5a0b552ae89a91aa34705031852bd16/2022/08/1_1---2022-08-24T165236.013-1.png"
+                                    alt="" class="image"></a>
+                        </div>
+                        <div class="col-sm-6 col-md-6 mb-4">
+                            <a href="#tracklist"><img src="./TRACKS.jpg" alt="" class="image"></a>
+                        </div>
+                        <div class="col-sm-6 col-md-6 mt-3">
+                            <a href="#albumlist"><img
+                                    src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/album-cover-design-template-31108f0127678968626725e1024ed0f2.jpg?ts=1572174637"
+                                    alt="" class="image"></a>
+                        </div>
+                        <div class="col-sm-6 col-md-6 mt-3">
+                            <a href="#artistlist"><img src="./artist.jpg" alt="" class="image"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="right bg-grey rounded m-2 mt-3">
+            <div class="header">
+                <div class="searchAndIcon">
+                    <div class="nav">
+                        <i class="fa-solid fa-bars hamburger" style="font-size: 20px;">&emsp;</i>
+                        <i class="fa-solid fa-chevron-left left-icon" id="left-icon">&emsp;&emsp;</i>
+                        <i class="fa-solid fa-chevron-right right-icon" id="right-icon"></i>
+                    </div>
+                    <div class="main" style="display: flex; flex-direction: column;">
+                        <div style="display: flex; gap: 10px;">
+
+                            <input type="text" placeholder=" &ensp; Search Songs,Artist" id="searchBar">
+                            <i class="fa-solid fa-magnifying-glass s-icon"></i>
+
+                        </div>
+                        <div id="mulsonglist" class="mulsongs">
+                            <!-- <ul id="songList" class="song-list"></ul> -->
+                        </div>
+
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div id="songCard" class="song-card" style="display: none;"></div>
+
+            <div class="spotifyPlaylist p-3 " id="spotifyPlaylist">
+
+                <h1>EchoBeat Songs</h1>
+                <div class="vertical-scroll">
+                    <div class="play-list" id="playlist">
+                        <a href="" class="ms-2">Popular Playlist</a>
+                        <div class="cardContainer m-4" id="cardContainer">
+
+                        </div>
+                    </div>
+
+                    <div id="tracklist">
+                        <a href="" class="ms-2">Popular Tracks</a>
+                        <div class="cardContainer m-4" id="trackContainer">
+
+                        </div>
+                    </div>
+
+                    <div id="albumlist">
+                        <a href="" class="ms-2">Popular Albums</a>
+                        <div class="cardContainer m-4" id="albumContainer">
+
+                        </div>
+                    </div>
+
+                    <div id="artistlist">
+                        <a href="" class="ms-2">Popular Artist</a>
+                        <div class="cardContainer m-4" id="artistContainer">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div id="searchResults">
+
+                </div>
+            </div>
+            <div class="container albumSongList" id="albumSongList">
+                <!-- Banner Image -->
+                <div class="banner" id="banner">
+                </div>
+                <!-- Song List -->
+                <ul class="song-list" id="song-list">
+                </ul>
+
+            </div>
+
+            <div class="seekbarBottom p-2">
+                <div class="song-related d-flex justify-content-between">
+                    <p class="name" id="songName">Sample Song</p>
+                    <div class="d-flex">
+                        <i class="fa-solid fa-backward-step" style="font-size:1.2rem; padding: 10px;cursor: pointer;"
+                            id="prevBtn"></i>
+                        <div class="playPause" id="playPauseBtn">
+                            <i class="fa-solid fa-play" style="font-size:1.2rem;padding: 10px; cursor: pointer;"></i>
+                        </div>
+                        <i class="fa-solid fa-forward-step" style="font-size:1.2rem; padding: 10px; cursor: pointer;"
+                            id="nextBtn"></i>
+                    </div>
+                    <div class=" ">
+                        <div class="song-timer d-flex justify-content-between m-2 ">
+                            <span class="current-time">0:00</span>
+                            <span class="max-duration">0:00</span>
+                        </div>
+                        <div class="volume m-1 gap-2">
+                            <div>
+                                <i class="fa-solid fa-volume-low" style="font-size: 0.8rem;"></i>
+                            </div>
+                            <div class="range">
+                                <input type="range" name="volume" id="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="">
+                    <div class="progress-area">
+                        <div class="circle"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="mid" class="container-fluid mid-section bg-grey rounded  m-2 mt-3">
+            <div class="wrapper" id="particles-js">
+                <div class="top-bar">
+                    <span>Now Playing</span>
+                </div>
+                <div class="img-area">
+                    <img src="" alt="" id="songImage">
+                </div>
+                <div class="song-details">
+                    <p class="name" id="songName1"></p>
+                    <p class="artist" id="artistName"></p>
+                </div>
+                <div class="controls">
+                    <i id="repeat-plist" class="material-icons" title="Playlist looped">repeat</i>
+                    <i id="more-music" class="material-icons">queue_music</i>
+                </div>
+                <div class="music-list">
+                    <div class="header">
+                        <div class="row">
+                            <i class="list material-icons">queue_music</i>
+                            <span>Music list</span>
+                        </div>
+                        <i id="close" class="material-icons">close</i>
+                    </div>
+                    <ul>
+                        <!-- here li list are coming from js -->
+                        <li>
+                            <a href="#" class="song-item" data-index="1">Run - Red (Taylor's Version)</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div id="audioControls">
+                <!-- <audio src="" controls></audio> -->
+            </div>
+        </div>
+
+
+
+    </div>
+
+    <script src="./script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
+        integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
