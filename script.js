@@ -1,5 +1,5 @@
 
-let playlist = "http://localhost:3000/playlist";
+let playlist = "https://allsongs.onrender.com/playlist";
 let options1 = {
     method: 'GET',
     headers: {
@@ -7,16 +7,16 @@ let options1 = {
     }
 };
 
-let tracklist = "http://localhost:3000/track";
+let tracklist = "https://allsongs.onrender.com/track";
 let options2 = options1
 
-let albumlist = "http://localhost:3000/album";
+let albumlist = "https://allsongs.onrender.com/album";
 let options3 = options1
 
-let artistlist = "http://localhost:3000/artist";
+let artistlist = "https://allsongs.onrender.com/artist";
 let options4 = options1
 
-let allsongs = "http://localhost:3001/allsongs";
+let allsongs = "https://completesongs.onrender.com/allsongs";
 let options5 = options1
 
 
