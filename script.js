@@ -1,5 +1,5 @@
 
-let playlist = "https://allsongs.onrender.com/playlist";
+let playlist = "http://localhost:3000/playlist";
 let options1 = {
     method: 'GET',
     headers: {
@@ -7,40 +7,21 @@ let options1 = {
     }
 };
 
-let tracklist = "https://allsongs.onrender.com/track";
-let options2 = {
-    method: 'GET',
-    headers: {
-        "Content-Type": "application/json"
-    }
-};
+let tracklist = "http://localhost:3000/track";
+let options2 = options1
 
-let albumlist = "https://allsongs.onrender.com/album";
-let options3 = {
-    method: 'GET',
-    headers: {
-        "Content-Type": "application/json"
-    }
-};
+let albumlist = "http://localhost:3000/album";
+let options3 = options1
 
-let allsongs = "https://completesongs.onrender.com/allsongs";
-let options5 = {
-    method: 'GET',
-    headers: {
-        "Content-Type": "application/json"
-    }
-}
+let artistlist = "http://localhost:3000/artist";
+let options4 = options1
 
-let artistlist = "https://allsongs.onrender.com/artist";
-let options4 = {
-    method: 'GET',
-    headers: {
-        "Content-Type": "application/json"
-    }
-}
+let allsongs = "http://localhost:3001/allsongs";
+let options5 = options1
+
 
 // Create a global audio object to handle song playback
-let currentSong = new Audio();
+let currentSong = document.createElement("audio");
 let isPlaying = false;  // Track playback state
 let playPauseBtn = document.getElementById("playPauseBtn");
 let nextBtn = document.getElementById("nextBtn");

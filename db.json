@@ -1,0 +1,651 @@
+{
+  "playlist": [
+    {
+      "id": 1,
+      "name": "Shaboozey",
+      "songname": "A Bar Song (Tipsy)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0280d86d636244b72a3a1eede2",
+      "audio_url": "https://p.scdn.co/mp3-preview/59f68f3e96233e3c352659053dd48039790cd965?cid=3de82489cbec480d901b3810f79de478",
+      "description": "A lively, upbeat track capturing the fun of a night out."
+    },
+    {
+      "id": 2,
+      "name": "JENNIE",
+      "songname": "Mantra",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a3775761df7db97cf6699e41",
+      "audio_url": "https://p.scdn.co/mp3-preview/58b05e8438c0ed7316e85fed6267f467612efa06?cid=3de82489cbec480d901b3810f79de478",
+      "description": "A bold and energetic track with powerful vocals."
+    },
+    {
+      "id": 3,
+      "name": "Benson Boone",
+      "songname": "Slow It Down",
+      "image": "https://i.scdn.co/image/ab67616d00001e02cc04ff3e70e146ba9abacf40",
+      "audio_url": "https://p.scdn.co/mp3-preview/7ed92ba5dc69c703af94b4973bb7eecb3fa3cce1?cid=3de82489cbec480d901b3810f79de478",
+      "description": "A reflective ballad with soothing melodies."
+    },
+    {
+      "id": 4,
+      "name": "Hozier",
+      "songname": "Too Sweet",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a5aab55aa65e5f6bd19564a2",
+      "audio_url": "https://p.scdn.co/mp3-preview/e526daac5ec6c4594ab3760cc48cee835379802d?cid=3de82489cbec480d901b3810f79de478",
+      "description": "A passionate, poetic song with soulful delivery."
+    },
+    {
+      "id": 5,
+      "name": "Linkin Park",
+      "songname": "Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d00001e028e096114f883d480e956680b",
+      "audio_url": "https://p.scdn.co/mp3-preview/d6d67b4f23b4865e07821f78c45a98035da95d61?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A collection of Linkin Park’s most iconic tracks."
+    },
+    {
+      "id": 6,
+      "name": "Guns N' Roses",
+      "songname": "November Rain",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e44963b8bb127552ac761873",
+      "audio_url": "https://p.scdn.co/mp3-preview/98deb9c370bbaa350be058b3470fbe3bc1e28d9d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A classic rock ballad with epic guitar solos."
+    },
+    {
+      "id": 7,
+      "name": "Nirvana",
+      "songname": "Smells Like Teen Spirit",
+      "image": "https://i.scdn.co/image/ab67616d00001e029aa37e5baca62ca6cc98d056",
+      "audio_url": "https://p.scdn.co/mp3-preview/2a60d43c398c49d26a5e990e9f54b5709d7a4dea?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A grunge anthem that defined a generation."
+    },
+    {
+      "id": 8,
+      "name": "Linkin Park",
+      "songname": "In the End",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a",
+      "audio_url": "https://p.scdn.co/mp3-preview/b5ee275ca337899f762b1c1883c11e24a04075b0?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A powerful rock track with emotional lyrics."
+    },
+    {
+      "id": 9,
+      "name": "Various Artists",
+      "songname": "What's Up?",
+      "image": "https://i.scdn.co/image/ab67616d00001e02987aa3c5aa184ceed2c5e437",
+      "audio_url": "https://p.scdn.co/mp3-preview/e24bda8c6ed805bc0c0cf62059034c0010f36b1e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A soulful, uplifting track with a timeless appeal."
+    },
+    {
+      "id": 10,
+      "name": "Queen",
+      "songname": "Bohemian Rhapsody",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a461aa96bd9a8fcd0a492aee",
+      "audio_url": "https://p.scdn.co/mp3-preview/d56de4777551c3eb7430ecf289809b1653147bf8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "An iconic masterpiece blending rock and opera."
+    },
+    {
+      "id": 11,
+      "name": "Guns N' Roses",
+      "songname": "Sweet Child O' Mine",
+      "image": "https://i.scdn.co/image/ab67616d00001e0268384dd85fd5e95831252f60",
+      "audio_url": "https://p.scdn.co/mp3-preview/a941cdd2c0c74206aaa6d7e459e4fdf1d738deaa?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A timeless rock hit with unforgettable guitar riffs."
+    },
+    {
+      "id": 12,
+      "name": "Arctic Monkeys",
+      "songname": "Do I Wanna Know?",
+      "image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+      "audio_url": "https://p.scdn.co/mp3-preview/006bc465fe3d1c04dae93a050eca9d402a7322b8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A sultry, moody rock track with a hypnotic beat."
+    },
+    {
+      "id": 13,
+      "name": "Various Artists",
+      "songname": "Zombie",
+      "image": "https://i.scdn.co/image/ab67616d00001e026fe0e89da0c3ebe0adff4a59",
+      "audio_url": "https://p.scdn.co/mp3-preview/17be792bc7651304002a6dcea847087501c8305a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A powerful rock anthem with strong vocals."
+    },
+    {
+      "id": 14,
+      "name": "AC/DC",
+      "songname": "Thunderstruck",
+      "image": "https://i.scdn.co/image/ab67616d00001e028399047ff71200928f5b6508",
+      "audio_url": "https://p.scdn.co/mp3-preview/788a028fa3a33141c817b1064e3159006edeaa8d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A high-energy rock track with electrifying guitar riffs."
+    },
+    {
+      "id": 15,
+      "name": "Hurricane on Saturn",
+      "songname": "Monsters",
+      "image": "https://i.scdn.co/image/ab67616d00001e0236fd9e2eae02c1f6dea42ddd",
+      "audio_url": "https://p.scdn.co/mp3-preview/cc10967e24e2005f7fd987de8913c018142ffb41?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A dark, intense track with a mix of rock and electronic."
+    },
+    {
+      "id": 16,
+      "name": "Evanescence",
+      "songname": "Bring Me To Life",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f3302494cdc2c9f2eef99a18",
+      "audio_url": "https://p.scdn.co/mp3-preview/d318a788a3a6a1ecb8cd0f1c924cef18832ff8d2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A dramatic, haunting track with powerful vocals."
+    },
+    {
+      "id": 17,
+      "name": "Bon Jovi",
+      "songname": "It's My Life",
+      "image": "https://i.scdn.co/image/ab67616d00001e0205e593aaa47659429ba3804e",
+      "audio_url": "https://p.scdn.co/mp3-preview/83348d39a2fc16f67ed6724624987875c33912bf?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A classic anthem about living life on your own terms."
+    },
+    {
+      "id": 18,
+      "name": "Addison Rae",
+      "songname": "Diet Pepsi",
+      "image": "https://i.scdn.co/image/ab67616d00001e024e5a5862355a5e953549292b",
+      "audio_url": "https://p.scdn.co/mp3-preview/0ea9bdb1c33638033d1268d6f70d3d3a4f092010?cid=3de82489cbec480d901b3810f79de478",
+      "description": "A catchy pop song with a nostalgic vibe."
+    },
+    {
+      "id": 19,
+      "name": "Billie Eilish",
+      "songname": "Guess featuring billie eilish",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dca19fcb7a25410224da080b",
+      "audio_url": "https://p.scdn.co/mp3-preview/4414d3148db19ab19af3e246140faa57aa14312c?cid=3de82489cbec480d901b3810f79de478",
+      "description": "A haunting collaboration with Billie Eilish's ethereal vocals."
+    },
+    {
+      "id": 20,
+      "name": "Hurricane on Saturn",
+      "songname": "Back for More",
+      "image": "https://i.scdn.co/image/ab67616d00001e027c764d1f85e98645253bd12e",
+      "audio_url": "https://p.scdn.co/mp3-preview/bd08a974c8917d62bcbf2bfe33baafb0555aeba5?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "An intense track with a mix of electronic and rock vibes."
+    }
+  ],
+  "track": [
+    {
+      "id": 1,
+      "name": "xxanteria",
+      "songname": "FUNKED UP - SLOWED",
+      "duration": "115348",
+      "image": "https://i.scdn.co/image/ab67616d00001e026e415c25972cc9c91dd1034c",
+      "audio_url": "https://p.scdn.co/mp3-preview/fb40769001c14348963be8fe09522a4312636375?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A slowed-down, funk-inspired track with deep."
+    },
+    {
+      "id": 2,
+      "name": "TOKYOSLEEP",
+      "songname": "LOOK AT ME!",
+      "duration": "88888",
+      "image": "https://i.scdn.co/image/ab67616d00001e02706c73b6bab75cfdabcd1c96",
+      "audio_url": "https://p.scdn.co/mp3-preview/04cef0c1cddf998dd4be87b406872c13b94f5a31?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "High-energy track with bold beats and a rebellious."
+    },
+    {
+      "id": 3,
+      "name": "LXNGVX",
+      "songname": "Montagem Mysterious Game",
+      "duration": "103495",
+      "image": "https://i.scdn.co/image/ab67616d00001e02427c80da235cb76fc89b8e27",
+      "audio_url": "https://p.scdn.co/mp3-preview/1fcafbd241a8fc1b68db08aae686dad2a171984c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "An intense and mysterious track, blending rhythms."
+    },
+    {
+      "id": 4,
+      "name": "DVRST",
+      "songname": "Close Eyes - Sped Up",
+      "duration": "113978",
+      "image": "https://i.scdn.co/image/ab67616d00001e023625ceea77e019fe8876e652",
+      "audio_url": "https://p.scdn.co/mp3-preview/b423d39ee0be1a5173388a0062f1f7fc945759cf?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "Fast-paced and energetic, with a surreal ambiance."
+    },
+    {
+      "id": 5,
+      "name": "TENZOO",
+      "songname": "BLOODY BRAZIL",
+      "duration": "121937",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fd39669ac5b522a9207f6b8b",
+      "audio_url": "https://p.scdn.co/mp3-preview/be482ff04a891e5e9732f22896f8f44af8c7da68?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "An intense, dark beat with a Brazilian edge."
+    },
+    {
+      "id": 6,
+      "name": "Daegho",
+      "songname": "BLUDLUST",
+      "duration": "194482",
+      "image": "https://i.scdn.co/image/ab67616d00001e026bf7219e14852fcb86dfe6cf",
+      "audio_url": "https://p.scdn.co/mp3-preview/d56e4009aaac2bad0862db164b9224b7b2388e45?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "Dark, bass-heavy track with a gritty, ominous vibe."
+    },
+    {
+      "id": 7,
+      "name": "FORGOTTENAGE",
+      "songname": "SHOOTERS",
+      "duration": "131239",
+      "image": "https://i.scdn.co/image/ab67616d0000b273739a42c640497c171f23bcb6",
+      "audio_url": "https://p.scdn.co/mp3-preview/b69f418721e0ec94f29fbcda4dced9d0ea732305?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A bold, rhythmic track with a determined and defiant feel."
+    },
+    {
+      "id": 8,
+      "name": "Mista Playa",
+      "songname": "UNCOVERED KILLER",
+      "duration": "136348",
+      "image": "https://i.scdn.co/image/ab67616d00001e021d643167572792bb79795f09",
+      "audio_url": "https://p.scdn.co/mp3-preview/cc37dee16eea6447b51d3e12783122c78d112ac9?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "Intense beats with a mysterious and thrilling tone."
+    },
+    {
+      "id": 9,
+      "name": "FORGOTTENAGE",
+      "songname": "DOWNING ME",
+      "duration": "132500",
+      "image": "https://i.scdn.co/image/ab67616d00001e02272754c3ec133f6d4609fcb4",
+      "audio_url": "https://p.scdn.co/mp3-preview/c04f30e2db459adfe437269c77a2f9cef0dc7506?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A dark, reflective track with a captivating rhythm."
+    },
+    {
+      "id": 10,
+      "name": "PlayaPhonk",
+      "songname": "Keraunos",
+      "duration": "144979",
+      "image": "https://i.scdn.co/image/ab67616d00001e02596ecf039255238ef762e4c3",
+      "audio_url": "https://p.scdn.co/mp3-preview/a0898d31f64efe5d008f88d8fe1db106d796c9e5?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A mysterious track with thunderous, phonk-style beats."
+    },
+    {
+      "id": 11,
+      "name": "NONTHENSE",
+      "songname": "THOMAS",
+      "duration": "108857",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ce064cd0ad01a0b9c0a88d1d",
+      "audio_url": "https://p.scdn.co/mp3-preview/9c42844841b3c74c2e2f8ddbb3017e1294c3635c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "Smooth yet eerie vibes with a steady rhythm."
+    },
+    {
+      "id": 12,
+      "name": "TOLCHONOV",
+      "songname": "TIRED OF PROBLEMS",
+      "duration": "91883",
+      "image": "https://i.scdn.co/image/ab67616d00001e026fc734b5ae124def28a6a68c",
+      "audio_url": "https://p.scdn.co/mp3-preview/67c0a45117a4820950dabbc8eed4923ffd6e467a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "Energetic beats with a hint of frustration and defiance."
+    },
+    {
+      "id": 13,
+      "name": "MoonDeity",
+      "songname": "WAKE UP!",
+      "duration": "142940",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a3a0d9665cc88b29b1d69f8f",
+      "audio_url": "https://p.scdn.co/mp3-preview/39aec0b2770164a228c11d7c5b1f1196863cd7ba?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "Uplifting beats to energize the listener with a call to action."
+    },
+    {
+      "id": 14,
+      "name": "DJ RAMON SP",
+      "songname": "Montagem - Conga Conga",
+      "duration": "178573",
+      "image": "https://i.scdn.co/image/ab67616d00001e0287e7d0f29787bf25ee10ab2c",
+      "audio_url": "https://p.scdn.co/mp3-preview/24259144236698fd7cf670dd4c545d38ebc4e9e8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "An energetic track with upbeat rhythms and Latin influences."
+    },
+    {
+      "id": 15,
+      "name": "ENCASSATOR",
+      "songname": "Never Met!",
+      "duration": "92005",
+      "image": "https://i.scdn.co/image/ab67616d00001e02252accba732348e1c68e01b4",
+      "audio_url": "https://p.scdn.co/mp3-preview/19202d137b129d6722d0d47d3fed564eb854db4c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A fast-paced and intense track with strong beats."
+    },
+    {
+      "id": 16,
+      "name": "0to8",
+      "songname": "classical phonk",
+      "duration": "89583",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a0881a6ccec335c288d90e39",
+      "audio_url": "https://p.scdn.co/mp3-preview/86c52daccc2b3696fbec7559db459fe211586ea2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A unique blend of classical vibes with phonk beats."
+    },
+    {
+      "id": 17,
+      "name": "DJ GLK",
+      "songname": "MTG MALDIÇÃO ETERNA",
+      "duration": "139911",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b956c15398701739edccbbea",
+      "audio_url": "https://p.scdn.co/mp3-preview/f88b5d0934a539bfa18a81b607f42c8f76e306da?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A dark and brooding track with a mysterious aura."
+    },
+    {
+      "id": 18,
+      "name": "TOLCHONOV",
+      "songname": "PR IN RIO",
+      "duration": "78461",
+      "image": "https://i.scdn.co/image/ab67616d00001e028e4d05910162c74201b0eb0f",
+      "audio_url": "https://p.scdn.co/mp3-preview/c90f3bbd5f4af873a9ae61470431527d6c9c45a8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "An upbeat track that captures the vibrant spirit of Rio."
+    },
+    {
+      "id": 19,
+      "name": "Kordhell",
+      "songname": "UNHOLY",
+      "duration": "160000",
+      "image": "https://i.scdn.co/image/ab67616d00001e0221b8dc5b94cfeeb12db9dbcf",
+      "audio_url": "https://p.scdn.co/mp3-preview/4a3b064896080cf6bd14011df57f7bc93275898b?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A hard-hitting phonk track with deep bass."
+    },
+    {
+      "id": 20,
+      "name": "FORGOTTENAGE",
+      "songname": "End of the World",
+      "duration": "164000",
+      "image": "https://i.scdn.co/image/ab67616d00001e02cb32d9ff4aaa359d1f94d855",
+      "audio_url": "https://p.scdn.co/mp3-preview/2577ef29fe30bf989b971eb985749abadbf9b27d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description": "A dark and cinematic track, filled with suspenseful tones."
+    }
+  ],
+  "album":[
+    {
+      "id":1,
+      "albumname":"Makina",
+      "image":"https://c.saavncdn.com/104/Makina-Unknown-2023-20230404192258-500x500.jpg",
+      "description":"Dark, dynamic beats for late-night vibes.",
+      "songs": [
+        {
+          "id":1,
+          "songname":"CINDY",
+          "audio_url":"https://p.scdn.co/mp3-preview/aa214f2af8138024db3a720f8f0f636abea9f36d?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e029babf58f21e52d2835493a44"
+        },
+        {
+          "id":2,
+          "songname":"Lütfen",
+          "audio_url":"https://p.scdn.co/mp3-preview/5c22c6cd369593839cec36c677b759f754ea5fd6?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e021caa4ef8b96d6ae61b2254af"
+        },
+        {
+          "id":3,
+          "songname":"Bul Beni",
+          "audio_url":"https://p.scdn.co/mp3-preview/8cb5151b1b4f586f60debe0dfe2fe450b5fe1a27?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02dcef82b22983d040a659a9a0"
+        },
+        {
+          "id":4,
+          "songname":"Omrum",
+          "audio_url":"https://p.scdn.co/mp3-preview/e8170eab0591fbefec72a57427edb59dc34cc1a1?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02613e73a94823952ca9af5430"
+        },
+        {
+          "id":5,
+          "songname":"Gece Gunduz",
+          "audio_url":"https://p.scdn.co/mp3-preview/9b452601349a6492ce9737f71303c06e2c5360af?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02e9742b78460c90be74e1d0b5"
+        },
+        {
+          "id":6,
+          "songname":"Dunya Hain",
+          "audio_url":"https://p.scdn.co/mp3-preview/936e822e73298bfbaa232e5aa415832883893cab?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e020eee4d31a195d2ae3f7817fc"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "albumname":"Umrumda Degil",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgD_fp8it1I9U5iFz9sIEJFF3oz82-ZSNuJg&s",
+      "description":"Emotional tunes with heartfelt lyrics.",
+      "songs": [
+        {
+          "id":1,
+          "songname":"Krvn",
+          "audio_url":"https://p.scdn.co/mp3-preview/d926087a76e97d335af154a73dc3149eddd7b0c9?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e0267c738a703dc979f5c3c52e"
+        },
+        {
+          "id":2,
+          "songname":"Perros Blancos",
+          "audio_url":"https://p.scdn.co/mp3-preview/e3c75736a6b411f0820e8f2bd75bb7606af11eb6?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02a1231499c329ddca8d45f4f9"
+        },
+        {
+          "id":3,
+          "songname":"Bilmem Mi",
+          "audio_url":"https://p.scdn.co/mp3-preview/6658f068a57c33d971816b3449687db7bc315b2d?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e020f499b495ee8063384ca6947"
+        },
+        {
+          "id":4,
+          "songname":"AMCAS RMX",
+          "audio_url":"https://p.scdn.co/mp3-preview/b6c406c54a7560aad567768183867dc863300cb0?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e0259b0486cce187b6e851fe213"
+        },
+        {
+          "id":5,
+          "songname":"10 NUMARA",
+          "audio_url":"https://p.scdn.co/mp3-preview/46bc4533371cdf453a6f24c959f569f06a874ae2?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e028c086a20bb5af858228e0fa2"
+        },
+        {
+          "id":6,
+          "songname":"Yengen Kizar",
+          "audio_url":"https://p.scdn.co/mp3-preview/a7583f223891201ce831023124e6542f8a74edc9?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e022779855ea24bb9507b53a3dd"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "albumname":"Gecenin Icine Gir",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkE-UUS1iCCknyvTOODw3EfYKWrms1qtISQ&s",
+      "description":"Haunting, introspective melodies.",
+      "songs": [
+        {
+          "id":1,
+          "songname":"Istedigim Olucak",
+          "audio_url":"https://p.scdn.co/mp3-preview/f780fd35241f5b2edbdbd2ae925a2bba15963252?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02a1231499c329ddca8d45f4f9"
+        },
+        {
+          "id":2,
+          "songname":"KHRBR",
+          "audio_url":"https://p.scdn.co/mp3-preview/814170eb827f4309146cada73da47c10d3c357d3?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02071cca129122c00d3c1d1a8f"
+        },
+        {
+          "id":3,
+          "songname":"Dumani Pasla",
+          "audio_url":"https://p.scdn.co/mp3-preview/5cedbff8513700c579d2bdc1c200b60168652d30?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e0245b5bd16fe14798b839ea1df"
+        },
+        {
+          "id":4,
+          "songname":"1 gr eksik",
+          "audio_url":"https://p.scdn.co/mp3-preview/fcca4e8e18636114e8b399a100a6c2f37cd3463b?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e027723d08b2179a80fdc4fc31e"
+        },
+        {
+          "id":5,
+          "songname":"Mahvettim",
+          "audio_url":"https://p.scdn.co/mp3-preview/db0241eee737e23e4adf06346f7a8abfeadf1425?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02af9dbcd6a01b448842dd18bd"
+        },
+        {
+          "id":6,
+          "songname":"Sakatat",
+          "audio_url":"https://p.scdn.co/mp3-preview/b2a62c23db08496dbaef6365772e5faeebe2f561?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02a62051231af9620ce091e9f2"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "albumname":"Nedenini Sorma",
+      "image":"https://i1.sndcdn.com/artworks-Ymbh1xVr6KTAMOIA-tH64Qg-t500x500.jpg",
+      "description":"Reflective rhythms with a mellow tone.",
+      "songs": [
+        {
+          "id":1,
+          "songname":"80 Kere",
+          "audio_url":"https://p.scdn.co/mp3-preview/45c5fc0eb86a84ce8b4b4f6dfab7a1519ec32d3e?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e022d9d2b3729eed7153d5b9edd"
+        },
+        {
+          "id":2,
+          "songname":"GECELERIN DERDI",
+          "audio_url":"https://p.scdn.co/mp3-preview/8d57311efc0a9faee38c7d1230b238040cbd3259?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02ca52e740dbb23c2b6cce3b8c"
+        },
+        {
+          "id":3,
+          "songname":"GUNES",
+          "audio_url":"https://p.scdn.co/mp3-preview/b0f5b87759da7f302ca0dcd704193a6378cea3f1?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e027d010988d2f762f42209e68e"
+        },
+        {
+          "id":4,
+          "songname":"B.S.G.",
+          "audio_url":"https://p.scdn.co/mp3-preview/a32e2068c842ceee6649fa62a745bf0776051af5?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02ca52e740dbb23c2b6cce3b8c"
+        },
+        {
+          "id":5,
+          "songname":"Hayrola",
+          "audio_url":"https://p.scdn.co/mp3-preview/e04854586d3b927fb222dd1789af1e36672a81ae?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02cbd08db41ec858a0b9b31a5b"
+        },
+        {
+          "id":6,
+          "songname":"Glock",
+          "audio_url":"https://p.scdn.co/mp3-preview/cca3bd3670585b2eae2186e6228993e303996855?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02122ace7a0a9b19ed8ee57664"
+        }
+      ]
+    },
+    {
+      "id":5,
+      "albumname":"Mahalle",
+      "image":"https://i.scdn.co/image/ab67616d00001e02cd585298178ad8a18e5ccbab",
+      "description":"Nostalgic, upbeat tracks celebrating community.",
+      "songs": [
+        {
+          "id":1,
+          "songname":"Kader",
+          "audio_url":"https://p.scdn.co/mp3-preview/d3701ca20f8cd9476dbbc99e020d651fcfa7812c?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e021831a576d8cf298a69b921cb"
+        },
+        {
+          "id":2,
+          "songname":"KHRBR",
+          "audio_url":"https://p.scdn.co/mp3-preview/814170eb827f4309146cada73da47c10d3c357d3?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02071cca129122c00d3c1d1a8f"
+        },
+        {
+          "id":3,
+          "songname":"Dumani Pasla",
+          "audio_url":"https://p.scdn.co/mp3-preview/5cedbff8513700c579d2bdc1c200b60168652d30?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e0245b5bd16fe14798b839ea1df"
+        },
+        {
+          "id":4,
+          "songname":"1 gr eksik",
+          "audio_url":"https://p.scdn.co/mp3-preview/fcca4e8e18636114e8b399a100a6c2f37cd3463b?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e027723d08b2179a80fdc4fc31e"
+        },
+        {
+          "id":5,
+          "songname":"Mahvettim",
+          "audio_url":"https://p.scdn.co/mp3-preview/db0241eee737e23e4adf06346f7a8abfeadf1425?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02af9dbcd6a01b448842dd18bd"
+        },
+        {
+          "id":6,
+          "songname":"Sakatat",
+          "audio_url":"https://p.scdn.co/mp3-preview/b2a62c23db08496dbaef6365772e5faeebe2f561?cid=f6a40776580943a7bc5173125a1e8832",
+          "image":"https://i.scdn.co/image/ab67616d00001e02a62051231af9620ce091e9f2"
+        }
+      ]
+    }
+  ],
+  "artist" : [
+    {
+      "id":1,
+      "name":"Rocksun",
+      "songname":"SALTANAT",
+      "image":"https://i.scdn.co/image/ab67616d00001e0237b8c48d7071102173f430f3",
+      "audio_url":"https://p.scdn.co/mp3-preview/89b4df78a46f55efa9ff9d618b0f9c8f93e676cd?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description":"High-energy with rhythmic beats and a captivating melody."
+    },
+    {
+      "id":2,
+      "name":"Rocksun",
+      "songname":"Mahaan",
+      "image":"https://i.scdn.co/image/ab67616d00001e021a6f2385f35c4691de167355",
+      "audio_url":"https://p.scdn.co/mp3-preview/2b6483cc6705cf35040e808dbb16343cd5462209?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description":"Bold and intense with empowering rhythms."
+    },
+    {
+      "id":3,
+      "name":"Rocksun",
+      "songname":"Gulabachya Phula",
+      "image":"https://i.scdn.co/image/ab67616d00001e02fac198fb841e7f6a1e82e5a1",
+      "audio_url":"https://p.scdn.co/mp3-preview/fb4a1e40969db8bf7033173c5fb921281b85702d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description":"Soulful, melodic, and emotionally deep."
+    },
+    {
+      "id":4,
+      "name":"Rocksun",
+      "songname":"Lal Chikhal",
+      "image":"https://i.scdn.co/image/ab67616d00001e02e6bd42c914e95f29f5e223f1",
+      "audio_url":"https://p.scdn.co/mp3-preview/37133320e5a3539b1eb63ebd52f0d446809cbbc1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description":"Bold and energetic with powerful beats."
+    },
+    {
+      "id":5,
+      "name":"Rocksun",
+      "songname":"SHASAN",
+      "image":"https://i.scdn.co/image/ab67616d00001e021751a9c73bf8520203a7f478",
+      "audio_url":"https://p.scdn.co/mp3-preview/3ecabf7e65afe1d9b2d80452cb78ceaf36bd7b68?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description":"Fierce, resilient, and commanding."
+    },
+    {
+      "id":6,
+      "name":"Rocksun",
+      "songname":"Dominance",
+      "image":"https://i.scdn.co/image/ab67616d00001e024b7f670e42661cc361a7ceb2",
+      "audio_url":"https://p.scdn.co/mp3-preview/b0e9b98587b6b603ee202110a7bbc9b1dffa5263?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description":"Aggressive and confident, projecting power."
+    },
+    {
+      "id":7,
+      "name":"Rocksun",
+      "songname":"Mafia Mentality",
+      "image":"https://i.scdn.co/image/ab67616d00001e029ef9bfb35528a1ee8ca5b359",
+      "audio_url":"https://p.scdn.co/mp3-preview/dcdfabb867c74764d50edc272c125f19cc971e79?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description":"Gritty, edgy, and full of swagger."
+    },
+    {
+      "id":8,
+      "name":"Rocksun",
+      "songname":"Ghaat Zala",
+      "image":"https://i.scdn.co/image/ab67616d00001e027d2d9d80b3f98f3cc8cb52ca",
+      "audio_url":"https://p.scdn.co/mp3-preview/b11753c306ce536762a4a26dd5b24d467aefa340?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description":"Fun, lively, and catchy with energetic rhythms."
+    },
+    {
+      "id":9,
+      "name":"Rocksun",
+      "songname":"Empire - Chapter 1",
+      "image":"https://i.scdn.co/image/ab67616d00001e020a21d5b6e0e2e1133611feca",
+      "audio_url":"https://p.scdn.co/mp3-preview/acfbcc2c4e5995f9b33e1b80f80a711ed2575f1d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description":"Cinematic, dramatic, and ambitious."
+    },
+    {
+      "id":10,
+      "name":"Rocksun",
+      "songname":"Nalayak",
+      "image":"https://i.scdn.co/image/ab67616d00001e02015b750df5910f4c404d434b",
+      "audio_url":"https://p.scdn.co/mp3-preview/f10daa641eae3977f33b522319dd9ba5c9f62079?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "description":"Raw, rebellious, and energetic."
+    }
+  ]
+}
+
